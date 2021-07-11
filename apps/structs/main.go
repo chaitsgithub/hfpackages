@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/chaitsgithub/hfpackages/magazine"
+	"github.com/chaitsgithub/hfpackages/packages/magazine"
 )
 
 func main() {
